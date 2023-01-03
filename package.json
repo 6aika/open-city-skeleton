@@ -13,7 +13,7 @@
 		"open-city-modules": "git+ssh://git@github.com/6aika/open-city-modules.git#master",
 		"react": "16.0.0",
 		"react-i18next": "^7.0.2",
-		"react-native": "0.50.3",
+		"react-native": "0.70.6",
 		"react-native-app-auth": "^2.3.0",
 		"react-native-image-picker": "^0.26.7",
 		"react-native-image-resizer": "^1.0.0",
@@ -33,7 +33,7 @@
 		"eslint-plugin-jsx-a11y": "^6.0.2",
 		"eslint-plugin-react": "^7.5.1",
 		"flow-bin": "0.56.0",
-		"jest": "21.2.1",
+		"jest": "29.3.1",
 		"react-test-renderer": "16.0.0"
 	},
 	"jest": {
